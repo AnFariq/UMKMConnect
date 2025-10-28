@@ -3,16 +3,23 @@ import type { LatLngTuple } from 'leaflet'
 export const umkmList = [
   {
     id: 1,
-    name: 'Warung Bu Siti',
+    name: 'Warung Pak Karyo',
     category: 'Kuliner',
     description: 'Makanan rumahan enak dan murah',
-    position: [-7.3215, 112.7379] as LatLngTuple
+    position: [-7.31030272154832, 112.78376096788364] as LatLngTuple
   },
   {
     id: 2,
-    name: 'Toko Andi',
-    category: 'Retail',
-    description: 'Menjual kebutuhan harian',
-    position: [-7.3208, 112.7381] as LatLngTuple
+    name: 'Nasi Bungkus Depan Kampus Stikom',
+    category: 'Kuliner',
+    description: 'Nasi Bungkus dan minuman segar',
+    position: [-7.310676676547877, 112.78286107307578] as LatLngTuple
+  },
+  {
+    id: 3,
+    name: 'Bengkel Jaya',
+    category: 'Jasa',
+    description: 'Servis kendaraan bermotor',
+    position: [-7.2755, 112.7916] as LatLngTuple
   }
 ]
