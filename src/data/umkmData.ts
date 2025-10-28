@@ -17,9 +17,16 @@ export const umkmList = [
   },
   {
     id: 3,
-    name: 'Bengkel Jaya',
-    category: 'Jasa',
-    description: 'Servis kendaraan bermotor',
-    position: [-7.2755, 112.7916] as LatLngTuple
+    name: 'Nasi Goreng Krengsengan Pak Burhan',
+    category: 'Kuliner',
+    description: 'Nasi Goreng Krengsengan Pak Burhan',
+    position: [-7.309901075233127, 112.77778356645705] as LatLngTuple
+  },
+  {
+    id: 4,
+    name: 'Toko Roti',
+    category: 'Kuliner',
+    description: 'Toko Roti dengan berbagai varian rasa',
+    position: [-7.305902996124747, 112.77724152436119] as LatLngTuple
   }
 ]
