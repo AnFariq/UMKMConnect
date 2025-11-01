@@ -1,9 +1,5 @@
-import {
-  Popover,
-  PopoverButton,
-  PopoverPanel,
-} from '@headlessui/react'
-import { ChevronDownIcon } from '@heroicons/react/20/solid'
+import { Popover, PopoverButton, PopoverPanel } from "@headlessui/react";
+import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import {
   ChartPieIcon,
   CursorArrowRaysIcon,
@@ -12,20 +8,45 @@ import {
   ArrowPathIcon,
   PhoneIcon,
   PlayCircleIcon,
-} from '@heroicons/react/24/outline'
+} from "@heroicons/react/24/outline";
 
 export const cat = [
-  { name: 'Food', description: 'Kuliner dan makanan ringan', href: '#', icon: ChartPieIcon },
-  { name: 'Healthy Food', description: 'Makanan sehat sekitar kampus', href: '#', icon: CursorArrowRaysIcon },
-  { name: 'Security', description: 'Keamanan transaksi UMKM', href: '#', icon: FingerPrintIcon },
-  { name: 'Integrations', description: 'Koneksi antar platform', href: '#', icon: SquaresPlusIcon },
-  { name: 'Automations', description: 'Otomatisasi bisnis UMKM', href: '#', icon: ArrowPathIcon },
-]
+  {
+    name: "Food",
+    description: "Kuliner dan makanan ringan",
+    href: "#",
+    icon: ChartPieIcon,
+  },
+  {
+    name: "Healthy Food",
+    description: "Makanan sehat sekitar kampus",
+    href: "#",
+    icon: CursorArrowRaysIcon,
+  },
+  {
+    name: "Security",
+    description: "Keamanan transaksi UMKM",
+    href: "#",
+    icon: FingerPrintIcon,
+  },
+  {
+    name: "Integrations",
+    description: "Koneksi antar platform",
+    href: "#",
+    icon: SquaresPlusIcon,
+  },
+  {
+    name: "Automations",
+    description: "Otomatisasi bisnis UMKM",
+    href: "#",
+    icon: ArrowPathIcon,
+  },
+];
 
 export const callsToAction = [
-  { name: 'Watch demo', href: '#', icon: PlayCircleIcon },
-  { name: 'Contact sales', href: '#', icon: PhoneIcon },
-]
+  { name: "Watch demo", href: "#", icon: PlayCircleIcon },
+  { name: "Contact sales", href: "#", icon: PhoneIcon },
+];
 
 export default function CategoryMenu() {
   return (
@@ -67,5 +88,5 @@ export default function CategoryMenu() {
         </div>
       </PopoverPanel>
     </Popover>
-  )
+  );
 }
