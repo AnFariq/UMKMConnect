@@ -27,7 +27,7 @@ export default function Contact() {
             Contact Us
           </h2>
           <p class="mt-2 text-lg/8 text-gray-600">
-            Aute magna irure deserunt veniam aliqua magna enim voluptate.
+            Hubungi Kami Jika ingin melaporkan atau mengupdate daftar umkm.
           </p>
         </div>
         <form
@@ -117,7 +117,7 @@ export default function Contact() {
                     id="sosmedUmkm"
                     name="sosmedUmkm"
                     type="text"
-                    placeholder="@loremipsum"
+                    placeholder="@karyo"
                     className="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6"
                   />
                 </div>
