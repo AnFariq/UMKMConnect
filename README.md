@@ -1,8 +1,3 @@
-Baik, terima kasih atas informasinya. Itu adalah detail penting\!
-
-Karena repositori **UMKMConnect** yang Anda tunjukkan hanya berisi *frontend* dan fokus pada fitur **Maps** untuk menampilkan lokasi UMKM, saya akan memodifikasi *template* README sebelumnya agar lebih spesifik dan menonjolkan fitur tersebut.
-
-Berikut adalah pembaruan draf README yang disesuaikan:
 
 -----
 
