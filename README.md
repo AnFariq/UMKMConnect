@@ -27,7 +27,7 @@ Fokus pada fitur-fitur yang ada di *frontend* dan terkait dengan peta:
 
 ## 🖼️ Tampilan Aplikasi (Demonstrasi)
 
-> **Link Demo Langsung (Deployed App):** [[https://umkmconnect.vercel.app](https://umkmconnect.vercel.app)] *(Ganti dengan link deployment Anda)*
+> **Link Demo Langsung (Deployed App):** [[https://umkmconnect.vercel.app](https://umkm-connect-six.vercel.app/)] *(Ganti dengan link deployment Anda)*
 
 ## 🛠️ Teknologi yang Digunakan (Fokus Frontend)
 
