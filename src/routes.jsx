@@ -17,6 +17,10 @@ const routes = createBrowserRouter([
     path: "/about",
     element: <About />,
   },
+  {
+    path: "/daftar-umkm",
+    element: <daftar-umkm />,
+  },
 ]);
 
 export default routes;
