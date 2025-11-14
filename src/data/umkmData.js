@@ -12,7 +12,7 @@ export const umkmList = [
     rating: 4.5,
     reviews: 128,
     priceRange: "Rp 10.000 - 25.000",
-    image: "../public/assets/karyo_image.png",
+    image: "karyo_image.png",
     tags: ["halal", "murah", "nasi campur"],
     isOpen: true
   },
@@ -29,7 +29,7 @@ export const umkmList = [
     rating: 4.2,
     reviews: 89,
     priceRange: "Rp 15.000 - 30.000",
-    image: "../public/assets/nasi_bungkus.png",
+    image: "nasi_bungkus.png",
     tags: ["nasi bungkus", "praktis", "halal"],
     isOpen: true
   },
@@ -46,7 +46,7 @@ export const umkmList = [
     rating: 4.7,
     reviews: 203,
     priceRange: "Rp 20.000 - 35.000",
-    image: "../public/assets/nasi_krengsengan_pak_burhan.png",
+    image: "nasi_krengsengan_pak_burhan.png",
     tags: ["nasi goreng", "krengsengan", "malam"],
     isOpen: false
   },
@@ -80,7 +80,7 @@ export const umkmList = [
     rating: 4.4,
     reviews: 92,
     priceRange: "Rp 12.000 - 25.000",
-    image: "../public/assets/es_teler_creamy.png",
+    image: "es_teler_creamy.png",
     tags: ["es teler", "minuman dingin", "dessert"],
     isOpen: true
   },
@@ -97,7 +97,7 @@ export const umkmList = [
     rating: 4.1,
     reviews: 67,
     priceRange: "Rp 8.000 - 20.000",
-    image: "../public/assets/pow_es_degan.png",
+    image: "pow_es_degan.png",
     tags: ["es degan", "es teler", "segar"],
     isOpen: true
   },
