@@ -21,7 +21,7 @@ export default function Header() {
         <div className="flex lg:flex-1">
           <Link to="/" className="-m-1.5 p-1.5 flex items-center gap-2">
             <img
-              src="icon_rm.png"
+              src="/icon_rm.png"
               alt="UMKMConnect"
               className="h-8 w-auto"
             />
@@ -73,7 +73,7 @@ export default function Header() {
               <div className="flex h-16 shrink-0 items-center">
                 <img
                   className="h-8 w-auto"
-                  src="icon_rm.png"
+                  src="/icon_rm.png"
                   alt="UMKMConnect"
                 />
               </div>
