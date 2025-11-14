@@ -79,9 +79,9 @@ Panduan ini kini lebih sederhana karena hanya melibatkan *frontend*.
 
 ## 🤝 Tim Pengembang
 
-  * **[Andicha Fariq Putra Pratama]** - *[Peran: Frontend Developer & Map Implementation]* ([Link GitHub/LinkedIn])
-  * **[Kefiar Sakki Widyarinakit]** - *[Peran: Backend Developer]* ([Link GitHub/LinkedIn])
-  * **[Mochammad Hafizh Yastito}** - *[Peran: UI/UX Designer]* ([Link GitHub/LinkedIn])
+  * **[Andicha Fariq Putra Pratama]** - *[Peran: Frontend Developer & Map Implementation]*
+  * **[Kefiar Sakki Widyarinakit]** - *[Peran: Backend Developer]*
+  * **[Mochammad Hafizh Yastito}** - *[Peran: UI/UX Designer]*
   * *(Sesuaikan dengan jumlah anggota tim Anda)*
 
 ## 📜 Lisensi
