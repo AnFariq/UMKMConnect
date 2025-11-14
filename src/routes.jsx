@@ -3,6 +3,8 @@ import { createBrowserRouter } from "react-router-dom";
 import Contact from "./components/Contact.jsx";
 import App from "./App.jsx";
 import About from "./components/About.jsx";
+import DaftarUMKM from "./components/daftar-umkm.jsx";
+import UMKMDetail from "./components/UMKMDetail.jsx";
 
 const routes = createBrowserRouter([
   {
@@ -19,7 +21,11 @@ const routes = createBrowserRouter([
   },
   {
     path: "/daftar-umkm",
-    element: <daftar-umkm />,
+    element: <DaftarUMKM />,
+  },
+  {
+    path: "/umkm/:id",
+    element: <UMKMDetail />,
   },
 ]);
 
