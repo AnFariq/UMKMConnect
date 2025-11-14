@@ -114,7 +114,7 @@ export const umkmList = [
     rating: 4.3,
     reviews: 145,
     priceRange: "Rp 15.000 - 40.000",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=400&h=300&fit=crop",
+    image: "/es_teller_jayandaru_dan_bakso_daging.png",
     tags: ["bakso", "es teller", "makanan berat"],
     isOpen: true
   },
@@ -131,7 +131,7 @@ export const umkmList = [
     rating: 4.6,
     reviews: 178,
     priceRange: "Rp 18.000 - 35.000",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400&h=300&fit=crop",
+    image: "/pangsit_mie_ayam_tuban.png",
     tags: ["mie ayam", "pangsit", "kuah"],
     isOpen: true
   },
@@ -148,13 +148,13 @@ export const umkmList = [
     rating: 4.0,
     reviews: 54,
     priceRange: "Rp 15.000 - 30.000",
-    image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+    image: "/mie_ayam_cakrawala.png",
     tags: ["mie ayam", "topping lengkap", "murah"],
     isOpen: true
   },
   {
     id: 10,
-    name: "Laundry Express",
+    name: "RA Laundry Merr",
     category: "jasa",
     description: "Laundry kilat dengan layanan antar jemput",
     lat: -7.31234567890123,
@@ -165,7 +165,7 @@ export const umkmList = [
     rating: 4.2,
     reviews: 76,
     priceRange: "Rp 5.000 - 15.000/kg",
-    image: "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=400&h=300&fit=crop",
+    image: "laundry.png",
     tags: ["laundry", "kilat", "antar jemput"],
     isOpen: true
   },
